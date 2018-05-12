@@ -1,0 +1,54 @@
+_repo: Children-of-the-Tenements_21583
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, C. M. (Charles Mark)
+    - Relyea, Charles M.
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riis, Jacob A. (Jacob August)
+    alias: Riis, Jacob August
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '1960'
+    url: http://www.gutenberg.org/2009/agents/1960
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
+description: ''
+gutenberg_issued: '2007-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21583'
+  lccn: 03028289
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tenement houses -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+tableOfContents: The rent baby -- A story of Bleecker Street -- The kid hangs up his
+  stocking -- The slipper-maker's fast -- Death comes to Cat Alley -- A proposal on
+  the elevated -- Little Will's message -- Lost children -- Paolo's awakening -- The
+  little dollar's Christmas journey -- The kid -- When the letter came -- The cat
+  took the kosher meat -- Nibsy's Christmas -- In the children's hospital -- Nigger
+  Martha's wake -- What the Christmas sun saw in the tenements -- Midwinter in New
+  York -- A chip from the maelstrom -- Sarah Joyce's husbands -- Merry Christmas in
+  the tenements -- Abe's game of jacks -- A little picture -- A dream of the woods
+  -- 'Twas 'Liza's doings -- Heroes who fight fire -- John Gavin, misfit -- A heathen
+  baby -- The christening in Bottle Alley -- In the Mulberry Street court -- Difficulties
+  of a deacon -- Fire in the barracks -- War on the goats -- He kept his tryst --
+  Rover's last fight -- How Jim went to the war -- A backwoods hero -- Jack's sermon
+  -- Skippy of Scrabble Alley -- Making a way out of the slum.
+title: Children of the Tenements
+url: http://www.gutenberg.org/ebooks/21583
